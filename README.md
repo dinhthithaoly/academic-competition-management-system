@@ -1,0 +1,1 @@
+# Academic Competition Management System
